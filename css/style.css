@@ -1,0 +1,53 @@
+a{
+    text-decoration: none;
+}
+
+h1{
+    margin: 0 0 30px 0;
+    text-align: center;
+}
+.btn{
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.ms-section{
+    padding: 0 30px;
+    
+}
+.paragraph{
+    text-align: justify;
+}
+.ms-section--1a{
+    background-color: #E74C3C;
+}
+.ms-section--1b{
+    background-color: #A2DED0;
+    background: url(../img/macaron.jpg) center center no-repeat;
+    background-size: cover;
+}
+.ms-section--2a{
+    background-color: #59ABE3;
+    background: url(../img/cupcake01.jpg) center right no-repeat;
+    background-size: cover;
+}
+.ms-section--2b{
+    background-color: #F7CA18;
+    background: url(../img/cupcake02.jpg) center left no-repeat;
+    background-size: cover;
+}
+.ms-section--3a{
+    background-color: #2ECC71;
+}
+.ms-section--3b{
+    background-color: #F39C12;
+}
+.navbar{
+    background-color: #000;
+    transition:.8s ease-in;
+}
+.menu-cupcake{
+    background-color: #A2DED0;
+}
+.menu-cake{
+    background-color: #E74C3C;
+}
